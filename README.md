@@ -22,4 +22,4 @@ Player 2 won:
 ![image](https://user-images.githubusercontent.com/80089456/167228473-eee17d1c-888c-49c2-846a-1c1235dabbfd.png)
 
 # Reference
-The game graphics is create by Iris Zuo.
+The game graphics is create by Iris Zuo, which includes the tank, wall, and text that appears on screen.
